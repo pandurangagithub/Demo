@@ -6,7 +6,8 @@ public class Project2 {
 		// TODO Auto-generated method stub
 		int a = 10;
 		int b = 20;
-		int sum = (a+b);
+		int c = 100;
+		int sum = (a+b+c);
 		System.out.println(sum);
 
 	}
